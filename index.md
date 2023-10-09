@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a physicist and a BS MS Graduate from the Indian Institute of Science Education and Research IISER located in Pune, India. As a physicist used to working in interdisciplinary teams, I'm a fast and motivated learner with strong analytical and communication skills. I use observational data as well as state-of-the-art numerical simulations to understand the connection between dynamics of systems and their variable properties.
+I am a BS MS Graduate from the Indian Institute of Science Education and Research IISER located in Pune, India. As a physicist used to working in interdisciplinary teams, I'm a fast and motivated learner with strong analytical and communication skills. I use observational data as well as state-of-the-art numerical simulations to understand the connection between dynamics of systems and their variable properties.
 
 ## Research Interests
 
