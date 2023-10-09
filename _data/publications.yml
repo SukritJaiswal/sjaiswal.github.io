@@ -3,18 +3,15 @@ main:
   - title: "A Continuum Mechanical Approach to Model Leaf Growth"
     authors: <strong>Sukrit Jaiswal</strong>, Prof Miltos Tsiantis, Prof Apratim Chatterji
     pdf: http://dr.iiserpune.ac.in:8080/jspui/handle/123456789/7811
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    code: https://morphographx.org/morphomechanx/
+    description: Understanding how organ shapes are produced and the causes of their variety is a major problem in biology. The difficulty in solving the issue lies in the fact that the final form frequently relies on mechanical constraints from nearby areas rather than being a direct readout of locally specified characteristics. We can distinguish between specified growth, which is the growth that would happen if each region grew separately from its neighbors (i.e., in mechanical isolation), and resultant growth, which is the growth that is observed when the mechanical constraints of adjacent regions are taken into account. (i.e. mechanically connected tissue). Here, we use numerical and computational modeling using continuum mechanics (for finding the compatible configuration) to try to find a solution to this problem. In order to describe the mechanical characteristics that underpin the growth of leaf cells, we create models of leaf evolution at various degrees of abstraction.
+    image: ./assets/img/continuum-image.png
     notes: Accepted
 
   - title: "Constraining Dense Matter Physics Using f-Mode Oscillations in Neutron Stars "
     authors: <strong>Sukrit Jaiswal</strong>, Debarati Chatterjee
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://www.mdpi.com/2624-8174/3/2/22
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    code: https://github.com/SukritJaiswal/Codes
+    description: In this paper, an investigation of the role of nuclear saturation parameters on f-mode oscillations in neutron stars is performed within the Cowling approximation. It is found that the uncertainty in the effective nucleon mass plays a dominant role in controlling the f-mode frequencies. The effect of the uncertainties in saturation parameters on previously-proposed empirical relations of the frequencies with astrophysical observables relevant for asteroseismology are also investigated. These results can serve as an important tool for constraining the nuclear parameter space and understand the behaviour of dense nuclear matter from the future detection of f-modes.
     notes: Published
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/physics-image.png
