@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a physicist and a BS MS Graduate from the Indian Institute of Science Education and Research IISER located in Pune, India. As a physicist used to working in interdisciplinary teams, I'm a fast and motivated learner with strong analytical and communication skills. I use observational data as well as state-of-the-art numerical simulations to understand the connection between dynamics of systems and their variable properties.
 
 ## Research Interests
 
@@ -18,20 +18,20 @@ I am a Ph.D. student at ...
 
 ## Research Projects
 
-- **[Feb. 2020] A Continuum Mechanical Approach to Model Leaf Growth**
+- **A Continuum Mechanical Approach to Model Leaf Growth**
 Supervisor: Prof Dr Miltos Tsiantis at Max Planck Institute for Plant Breeding Research (MPIPZ, Cologne, Germany) in the "Department of Comparative Development and Genetics".
 I worked on a physics based approach with knowledge of solid continuum mechanics and mechanics of biological growth to model the growth and pattern of leaf of Arabidopsis thaliana. I used FEM-based mechanical simulations and am contributing in the development of C++ software MorphoDynamX for multicellular and continuous structures (steady state mechanics and growth). My work focused on solving the conundrum between the resultant growth vs specified growth. This opportunity presented me with the chance to work in collaboration with scientists of different disciplines and broadened my horizon. I also closely worked together with the "Soft & Living Matter Group" led by Prof. Apratim Chatterji.
 
-- **[Feb. 2020] Forbush decreases in the context of a diffusion-expansion model**
+- **Forbush decreases in the context of a diffusion-expansion model**
 Supervisor: Prof Prasad Subramanian at IISER Pune
 I also completed a project on Solar Astrophysics where we focused on galactic cosmic rays detected at the Earth and that they exhibit a transient decrease in intensity followed by a gradual recovery in response to the passage of a solar coronal mass ejection, called Forbush decreases, for which there are extensive observational databases available. I examined Forbush decrease data (with special emphasis on the recovery) in the context of a diffusion-expansion model, with a view to constraining the diffusion coefficients for energetic particles across magnetic fields.
 
-- **[Sept. 2019] Climate and Surface Modelling by CLiMT**
+- **Climate and Surface Modelling by CLiMT**
 Supervisor: Prof Joy Merwin Monteiro at IISER Pune
 Another side project I engaged myself with to expand my range of sciences and to attempt to explore a different discipline. We aimed for a fairly simple objective — to implement a realistic boundary layer and land surface in CLiMT - an open source climate modelling framework software. Once these were written and tested, they were used to understand the effects of “large scale forcing” on the surface energy balance. I created a stepper model for calculating surface fluxes and iteratively calculate the new values of near-surface temperature and humidity. I had presented a simplified physical parameterization scheme, designed to be used with other componentis in CliMT to bridge the gap between Global Climate Models and idealized dry models.
 
 
-- **[Mar. 2019] A detailed study of Neutron Star Equation of States in Relativistic Mean Field Formalism**
+- **A detailed study of Neutron Star Equation of States in Relativistic Mean Field Formalism**
 Supervisor: Prof P Arumugam at IIT Roorkee
 I also studied nuclear physics to understand the NS’ internal composition. The relativistic mean-field approximation has been used in this study to compute the equations of state of matter within a neutron star, which is one application of nuclear physics. In particular, different known parameter sets' equations of state for nuclear and neutron star materials were constructed. I did a review of the literature that is currently accessible on neutron stars and then replicate the characteristics of saturated nuclear matter and the mass-radius relationship of a static, spherically symmetric neutron star using the derived equations of state. Results are compared to published estimates of saturated nuclear matter's characteristics and to observational data on neutron star mass-radius relationships that are currently accessible.
 
@@ -46,4 +46,3 @@ I also did quite an extensive study of Condensed Matter physics through two proj
 
 {% include_relative _includes/publications.md %}
 
-##{% include_relative _includes/services.md %}
