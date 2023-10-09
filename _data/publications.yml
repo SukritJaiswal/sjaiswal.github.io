@@ -1,7 +1,7 @@
 main:
 
   - title: "A Continuum Mechanical Approach to Model Leaf Growth"
-    authors: <strong>Sukrit Jaiswal</strong>, Prof Miltos Tsiantis, Prof Apratim Chatterji
+    authors: <strong>Sukrit Jaiswal</strong>, Miltos Tsiantis, Apratim Chatterji
     pdf: http://dr.iiserpune.ac.in:8080/jspui/handle/123456789/7811
     code: https://morphographx.org/morphomechanx/
     description: Understanding how organ shapes are produced and the causes of their variety is a major problem in biology. The difficulty in solving the issue lies in the fact that the final form frequently relies on mechanical constraints from nearby areas rather than being a direct readout of locally specified characteristics. We can distinguish between specified growth, which is the growth that would happen if each region grew separately from its neighbors (i.e., in mechanical isolation), and resultant growth, which is the growth that is observed when the mechanical constraints of adjacent regions are taken into account. (i.e. mechanically connected tissue). Here, we use numerical and computational modeling using continuum mechanics (for finding the compatible configuration) to try to find a solution to this problem. In order to describe the mechanical characteristics that underpin the growth of leaf cells, we create models of leaf evolution at various degrees of abstraction.
