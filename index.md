@@ -19,7 +19,7 @@ I am a BS MS Graduate from the Indian Institute of Science Education and Researc
 ## Research Projects
 
 - **A Continuum Mechanical Approach to Model Leaf Growth**
-<br>**Supervisor**: *Prof Dr Miltos Tsiantis, Max Planck Institute for Plant Breeding Research (MPIPZ, Cologne, Germany)* in the *Department of Comparative Development and Genetics*
+<br>**Supervisor**: *Prof Dr Miltos Tsiantis, Max Planck Institute for Plant Breeding Research (MPIPZ, Cologne, Germany)* in the *[Department of Comparative Development and Genetics](https://www.mpipz.mpg.de/226344/tsiantis-dpt)*
 <br>I worked on a physics based approach with knowledge of solid continuum mechanics and mechanics of biological growth to model the growth and pattern of leaf of Arabidopsis thaliana. I used FEM-based mechanical simulations and am contributing in the development of C++ software MorphoDynamX for multicellular and continuous structures (steady state mechanics and growth). My work focused on solving the conundrum between the resultant growth vs specified growth. This opportunity presented me with the chance to work in collaboration with scientists of different disciplines and broadened my horizon. I also closely worked together with the "Soft & Living Matter Group" led by Prof. Apratim Chatterji.
 
 - **Forbush decreases in the context of a diffusion-expansion model**
